@@ -1,0 +1,130 @@
+commit f175b57da56eb78176c36b5bcfdb23dc81e7a868
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:52:38 2023 -0400
+
+    agregando 2 parrafos
+
+commit ce841db4d34e1ec8700d9c8b63d2a757f83bbfe3
+Merge: 1b1c622 9a4b69d
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:48:56 2023 -0400
+
+    Añadidendo estaciones de el año con fechas
+
+commit 1b1c622f70481ebd60d043d74ddeb8ef8e37d577
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:37:02 2023 -0400
+
+    agrenado estaciones de el año con fecha de inicio
+
+commit 9a4b69d8dccff299ddca5ffbe907c1a4b19f70cc
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:37:02 2023 -0400
+
+    agregando las estaciones de ano
+
+commit 5c712e6c0712fd8b6a53e6616686bb3e7f05228a
+Merge: 6993851 34459b7
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:07:59 2023 -0400
+
+    Resolviendo conflito de merge entre dos ramas en el doc main.html
+
+commit 34459b7da43c113b2f78cfbfd47d8516fc0c7f76
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:02:43 2023 -0400
+
+    agreando el main.js a el html
+
+commit 69938515e1cb239d5532639deebfb5cb8e177148
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 14:00:35 2023 -0400
+
+    Cambio a el html
+
+commit 7e7be140f798ec5d5142ef8ae874cd622caebbb5
+Merge: 1094ce3 5c8a4e6
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:51:59 2023 -0400
+
+    Merge branch 'js'
+
+commit 5c8a4e659f5ae211112673a717832e56fda5a8fa
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:47:38 2023 -0400
+
+    creando index.js
+
+commit 1094ce3919915d062bb7c701f94eae81ee873f2e
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:39:52 2023 -0400
+
+    crando main.css
+
+commit 2d57eeea5a78baff89d85bb6e7c9918f900ec2a9
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:35:56 2023 -0400
+
+    creando html
+
+commit 29a2715ccedbaa04552edd3fa49791be9eab5cda
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:15:18 2023 -0400
+
+    usando ignore
+
+commit 3fef64b0f20ea1073c135fe7a14f1a24704b4548
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:14:24 2023 -0400
+
+    ignorando archivos
+
+commit 3dc95db0956d2a6b84418f6e9d2c6e512c06b9fe
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:12:12 2023 -0400
+
+    usando git ignore
+
+commit 490b9e694c55ee9f630a944e2ae7e6ef7291636a
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:09:16 2023 -0400
+
+    ignorando archivos
+
+commit ae39363694563cfcb6f66f5057b3ac61bcfbda6d
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:08:12 2023 -0400
+
+    Usando gitignore
+
+commit b74e2b139ef98a352416f5729ede958a17e68327
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 13:06:11 2023 -0400
+
+    Probando el ignore
+
+commit 86f08ddfef5e23fbf41311ed80db501655859492
+Author: Moosesg10 <124828981+Moosesg10@users.noreply.github.com>
+Date:   Wed Jul 26 12:45:03 2023 -0400
+
+    Creando Licencia
+    
+    Esta licencia avala el software  creado
+
+commit f923ef62929073bea92abb5963f71d9d156b869f
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 12:37:30 2023 -0400
+
+    Agrenagando mas contenido a el Readme
+
+commit 5283dd2a34f2eb8853b5e6eb3482a94eb9c490ce
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 12:27:02 2023 -0400
+
+    Agregando Contenido
+
+commit d812c9cb7f94a0bdd7939148f52f2ecb75925153
+Author: Moosesg10 <moisesgak66@gamil.com>
+Date:   Wed Jul 26 12:19:38 2023 -0400
+
+    Primer commit
