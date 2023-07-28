@@ -6,4 +6,6 @@ Hola moises vas por buen camino sigue asi yo creo en tu potencial cuando vuelvas
 
 Agregando una etiqueta con este commit y hacer oficial nuestra version **v1.0.0**
 
-cambios a el readme
+Quires dominar el uso de Git has muchas practicas 
+
+![flujo de Git](git-flow.png)
