@@ -6,3 +6,4 @@ Hola moises vas por buen camino sigue asi yo creo en tu potencial cuando vuelvas
 
 Agregando una etiqueta con este commit y hacer oficial nuestra version **v1.0.0**
 
+cambios a el readme
